@@ -32,3 +32,8 @@ This project is licensed under the MIT License. You are free to use, modify, and
 
 ## 🌟 About Me
 Hi there! I'm Cyrel Jude D. Barra. I hold a Bachelor of Science in Information Technology degree and am passionately pursuing a career as a Data Analyst.
+
+Let's stay in touch! Feel free to connect with me on the following platforms:
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](http://www.linkedin.com/in/cyrel-jude-barra)
+
